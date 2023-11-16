@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ma.safe.cjpath",
+    "sha256_cert_fingerprints":
+    ["49:07:4C:3E:4B:08:08:10:74:39:35:97:2F:A8:31:C6:4E:63:E9:39:2A:63:2A:95:B3:99:87:94:7C:EC:FA:C4"]
+  }
+}]
